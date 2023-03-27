@@ -1,0 +1,106 @@
+.External{
+
+text-align: center;
+background-color: green;
+color: white;
+font-size: larger;
+
+}
+.red{
+
+    color: red;
+}
+.blue{
+    color: blue;
+}
+
+.text1{
+
+    background-color: aquamarine;
+}
+
+.Select{
+
+    color: aqua;
+    text-decoration: underline;
+}
+
+#select{
+    color: burlywood;
+    background-color: aqua;
+}
+
+
+.list{
+    
+    background-color: pink;
+    text-align: center;
+}
+
+.odd{
+    background-color: pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#second{
+    color: blue;
+    font-size: 36px;
+}
+
+#third{
+    font-size: 24px;
+}
+#forth{
+    background-color: lightgreen;
+    font-size: 24px;
+}
+
+.Country{
+    border: 1px solid;
+    height: 300px;
+    
+}
+
+.Ice{
+    width: 400px;
+}
+
+.Jap{
+   width: 600px;
+}
+.one{
+    background-color: yellow;
+    padding-left:20%;
+    padding-top: 2%;
+    margin-left: 10%;
+    margin-right: 5%;
+    height: 50px;
+    border: 2px solid green;
+}
+
+.two{
+    background-color: lightskyblue;
+    border: 2px solid blue;
+    margin-left: 9%;
+    margin-right: 4%;
+    margin-top: 1%;
+}
+.three{
+    background-color: burlywood;
+    border: 2px solid brown;
+    width: 300px;
+    height: 50px;
+    margin-left: 70%;
+    margin-top: 4%;
+    padding-left: 4%;
+    padding-top: 2%;
+
+}
+
+.card{
+    background-color: lightskyblue;
+    margin-top: 1%;
+    margin-left: 4%;
+    margin-right: 4%;
+    margin-bottom: 1%;
+}

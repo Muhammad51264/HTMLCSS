@@ -1,0 +1,20 @@
+*{
+
+    background-color: black;
+    color: rgb(255, 255, 255);
+}
+
+section {
+
+background-color: rgb(175, 238, 238);
+
+}
+
+img{
+    width: 300px;
+    
+}
+
+footer{
+    background-color: aquamarine;
+}
